@@ -5,6 +5,8 @@
 #include "Widgets/SToolTip.h"
 #include "SGraphPanel.h"
 #include "EdGraphSchema_K2.h"
+#include "GenericGraphEdge.h"
+#include "ScopedTransaction.h"
 #include "GenericGraphAssetEditor/EdNode_GenericGraphNode.h"
 #include "GenericGraphAssetEditor/EdNode_GenericGraphEdge.h"
 #include "GenericGraphAssetEditor/ConnectionDrawingPolicy_GenericGraph.h"

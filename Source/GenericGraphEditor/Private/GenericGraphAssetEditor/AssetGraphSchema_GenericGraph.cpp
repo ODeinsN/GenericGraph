@@ -5,6 +5,7 @@
 #include "GenericGraphAssetEditor/EdNode_GenericGraphEdge.h"
 #include "GenericGraphAssetEditor/ConnectionDrawingPolicy_GenericGraph.h"
 #include "GraphEditorActions.h"
+#include "ScopedTransaction.h"
 #include "Framework/Commands/GenericCommands.h"
 #include "AutoLayout/ForceDirectedLayoutStrategy.h"
 #include "AutoLayout/TreeLayoutStrategy.h"

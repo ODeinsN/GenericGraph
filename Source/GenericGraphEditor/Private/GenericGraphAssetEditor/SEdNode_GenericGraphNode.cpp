@@ -7,6 +7,7 @@
 #include "SlateOptMacros.h"
 #include "SGraphPin.h"
 #include "GraphEditorSettings.h"
+#include "ScopedTransaction.h"
 #include "GenericGraphAssetEditor/EdNode_GenericGraphNode.h"
 #include "GenericGraphAssetEditor/GenericGraphDragConnection.h"
 
